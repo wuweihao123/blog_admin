@@ -10,6 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>admin_view</artifactId>
-
-
+    <packaging>jar</packaging>
+    <name>admin_view</name>
 </project>
